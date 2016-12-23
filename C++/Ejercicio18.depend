@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475010028 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio18\main.cpp
+	<iostream>
+	"Empleado.h"
+
+1475013524 c:\users\omarm\dropbox\codeblocks proyects\ejercicio18\include\empleado.h
+	<iostream>
+
+1475009797 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio18\src\empleado.cpp
+	"Empleado.h"
+
